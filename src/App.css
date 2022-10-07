@@ -27,6 +27,19 @@
 .App-link {
   color: #61dafb;
 }
+.contCoins{
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.coinsV{
+  background-color: #a0a0a0;
+  margin: 10px;
+  color: white;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
 
 @keyframes App-logo-spin {
   from {
